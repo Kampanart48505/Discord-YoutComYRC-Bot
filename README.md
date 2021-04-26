@@ -14,5 +14,5 @@ To run this project, install it locally using npm:
 $ git clone https://github.com/Kampanart48505/Discord-YouthComYRC-Bot.git
 $ cd Discord-YouthComYRC-Bot
 $ npm install discord.js
-$ node index -v
+$ node index.js 
 ```
